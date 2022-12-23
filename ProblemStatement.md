@@ -2,7 +2,7 @@
 Hard difficulty problem solved in C++
 
 Problem Statement:
-Given an integer array sorted int increasing order of N size and an integer X, find the number of unique pairs that exist
+Given an integer vector arrray[] sorted int increasing order of N size and an integer X, find the number of unique pairs that exist
 whose abslute sum is exactly X.
 
 Sample Input 1: [1, 2, 3, 4, 6],  X = 7
